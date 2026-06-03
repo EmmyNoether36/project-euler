@@ -1,3 +1,4 @@
 python/eulerTemplate.py
 *.old
-algorithms.py
+practice.py
+*.not_done
